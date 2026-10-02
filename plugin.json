@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "font-ibm-plex-sans",
+  "name": "IBM Plex Sans for AERA",
+  "version": "0.1.0",
+  "description": "A precise, professional interface typeface.",
+  "type": "theme-extension",
+  "entry": "font",
+  "font_family": "IBM Plex Sans",
+  "min_host_api": 2,
+  "protocol_version": 1,
+  "icon": "font",
+  "payload": "font.ttf",
+  "payload_url": "https://github.com/AERA-Plugins/font-ibm-plex-sans/releases/download/v0.1.0/font.ttf",
+  "payload_size": 537244,
+  "payload_sha256": "3b031aa4216174205bd8471f88a49b91f093169e9e87bd5262242bc5967fe2e3",
+  "permissions": []
+}
